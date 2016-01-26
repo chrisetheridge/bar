@@ -37,7 +37,5 @@ Chrome extension to display current tracks from Youtube and Soundcloud.
 
 Support for iTunes now playing will be added in the future.
 
-## Screenshots
-![Soundcloud](http://i.imgur.com/ENprGEy.png)
-![Spotify](http://i.imgur.com/HGJj6iR.png)
-![Youtube](http://i.imgur.com/5dqSypY.png)
+## Screenshot
+![Bar](./screenshot.png)
