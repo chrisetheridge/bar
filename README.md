@@ -33,14 +33,11 @@ Though spotify will work by default, you will need to
 Install the <a href="https://github.com/callahanrts/current-track" target="_blank">Current Track</a>
 Chrome extension to display current tracks from Youtube and Soundcloud.
 
+## Future Work
 
-## Questions?
-
-If you find a bug or have any questions about Bar, [submit an issue](https://github.com/callahanrts/bar/issues/new).
-
+Support for iTunes now playing will be added in the future.
 
 ## Screenshots
 ![Soundcloud](http://i.imgur.com/ENprGEy.png)
 ![Spotify](http://i.imgur.com/HGJj6iR.png)
 ![Youtube](http://i.imgur.com/5dqSypY.png)
-
